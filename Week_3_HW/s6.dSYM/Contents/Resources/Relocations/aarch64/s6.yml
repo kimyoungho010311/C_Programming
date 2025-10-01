@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kim-youngho/git/C_Programming/Week_3_HW/s6'
+relocations:     []
+...
